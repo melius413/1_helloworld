@@ -26,3 +26,31 @@
 // git clone {복사 주소}
 
 // 크롬 웹스토어에서 json viewer 설치
+
+// npm i -g supervisor
+// sudo:npm i -g supervisor
+// 코드 수정하면 자동으로 서버 재설치
+// supervisor app2로 실행, 파워셀말고, cmd에서 실행
+
+// 스크립트 추가
+// 'build': 'pm2 start app2'??
+
+// 부트스트랩
+// getbootstrap.com
+// only css
+
+// 익스프레스 제너래이터면 편하게 설치가능
+// 기본적으로 폴더 구성해준다.
+// npm i -g express-generator
+// 상위 폴더에서 git bash
+// $ express --view=pug 03.express-gen(폴더명)
+// 폴더 이동해서 npm i
+
+// 4주차부터 express-gen 사용 예정
+
+// vue나 리엑트에서 퍼그 사용하면 숴워짐
+// 퍼그는 에밋같은 젠코딩이다.
+// 탭설정은 동일하게
+
+// 다음주 sql 배움
+// inflearn: sql > 생활코딩
